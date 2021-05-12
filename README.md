@@ -31,7 +31,8 @@ Abra o XAMPP e ative as extensões 'Apache' e 'Mysql'.
 Baixe o código. Vá até o seu C: abra a pasta XAMPP, procure pela pasta 'htdocs' apague os arquivos já existentes nela e salve
 arquivo baixados. 
 Em seguida abra seu navegador e digite o seguinte endereço:http://localhost/anuncio_online_php/index.php 
-Pronto você está pronto para usar meu projeto de calculadora de anúncio online. 
+
+Pronto! você está pronto para usar meu projeto Sistema de cadastro online. 
 
 NOTA: Para ver a estrutura da tabela no 'Mysql' digite em seu navegador:
 http://localhost/phpmyadmin/index.php?route=/database/structure&server=1&db=cadastro
